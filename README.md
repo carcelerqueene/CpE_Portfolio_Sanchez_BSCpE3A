@@ -50,10 +50,7 @@ This project is a simple audio amplifier circuit using a TIP41 transistor to amp
 - Wires
 
 ### Project Screenshot
-<p align="center">
-  <img src="Images/Amplifier%201.png" width="45%" />
-  <img src="Images/Amplifier%202.png" width="45%" />
-</p>
+  <img src="Images/Amplifier%201.png" height="300">  <img src="Images/Amplifier%202.png" height="300" />
 
 # 🎯 Goals
 

@@ -36,7 +36,7 @@ This project is a simple audio amplifier circuit using a TIP41 transistor to amp
 
 ### Technologies Used
 - Electronic Circuit Design
-- Breadboard Prototyping
+- Proteus (Schematic Design and 3D Modeling)
 - Soldering Techniques
 - Analog Electronics
 

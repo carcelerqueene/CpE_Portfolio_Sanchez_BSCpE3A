@@ -29,57 +29,32 @@ I am interested in programming, hardware troubleshooting, embedded systems, and 
 
 # 📂 Featured Projects
 
-## 🔹 Arduino-Based LED Control System
+## 🔹 Mini Amplifier Using TIP41
 
 ### Description
-This project is designed to control multiple LEDs using an Arduino microcontroller. It demonstrates the basic concepts of circuit design and programming logic.
+This project is a simple audio amplifier circuit using a TIP41 transistor to amplify low audio signals into louder sound output through a speaker. The project demonstrates the fundamentals of transistor-based amplification, electronic circuit assembly, and audio signal processing.
 
 ### Technologies Used
-- Arduino IDE
-- C++
-- Arduino Uno
+- Electronic Circuit Design
+- Breadboard Prototyping
+- Soldering Techniques
+- Analog Electronics
 
 ### Components Used
-- LED
-- Resistor
-- Breadboard
-- Jumper Wires
+- TIP41 Transistor
+- Capacitor
+- Potentiometer
+- Heatsink
+- Speaker
+- Baby Plug
+- Wires
 
 ### Project Screenshot
-![Amplifier](Images/Amplifier1.png)
-
----
-
-## 🔹 Student Record Management System
-
-### Description
-A simple program created using Python that allows users to input, edit, and manage student information efficiently.
-
-### Technologies Used
-- Python
-- VS Code
-
-### Project Screenshot
-![Python Project](images/project2.jpg)
-
----
-
-## 🔹 Online Shopping System Diagram
-
-### Description
-A visual flowchart representing the process of ordering and purchasing products through an online shopping platform.
-
-### Technologies Used
-- Draw.io
-
-### Project Screenshot
-![Diagram](images/project3.jpg)
-
----
+![Amplifier](Images/Amplifier%201.png)
 
 # 🎯 Goals
 
-This portfolio was created to showcase my projects, technical skills, and academic achievements in the field of Computer Engineering.
+My goal is to become a skilled Computer Engineer capable of developing useful systems and improving my programming and hardware knowledge. I also want to gain more experience in embedded systems and networking to prepare for future industry opportunities.
 
 ---
 

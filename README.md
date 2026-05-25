@@ -46,7 +46,7 @@ This project is designed to control multiple LEDs using an Arduino microcontroll
 - Jumper Wires
 
 ### Project Screenshot
-![LED Project](images/project1.jpg)
+![Amplifier](Images/Amplifier1.png)
 
 ---
 
